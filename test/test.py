@@ -1,5 +1,5 @@
 """
-Tiny Tapeout required cocotb test.
+Tiny Tapeout required cocotb test
 
 This drives the design through its ACTUAL fabricated pins (ui_in/uio_*),
 the same way the Vivado/Icarus testbenches in this project did, just in
